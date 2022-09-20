@@ -1,3 +1,5 @@
+# 微信关注 小飞技术，回复 节点
+
 # 下载v2rayN
 
 https://github.com/2dust/v2rayN/releases
@@ -6,7 +8,10 @@ https://github.com/2dust/v2rayN/releases
 
 # 使用说明
 
-1、打开软件之后直接 Ctrl+V ,把节点粘贴进来。
+1、打开软件之后直接 Ctrl+V ,把节点粘贴进来。如果发现里面是空的，重新获取就行了。
+
+![image](https://user-images.githubusercontent.com/110610306/191232273-601abba3-796a-42f9-869c-1648174db292.png)
+
 
 2、选中节点，按 Ctrl+P，进行测延迟
 
