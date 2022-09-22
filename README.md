@@ -1,4 +1,4 @@
-# 微信关注 小飞技术，回复 节点
+# 一、微信关注 小飞技术，回复 节点
 
 # 下载v2rayN
 
@@ -62,8 +62,10 @@ https://chrome.google.com/webstore/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhji
 ![image](https://user-images.githubusercontent.com/110610306/191431741-e86ade3c-40eb-4e41-8075-b0c8f57f8c25.png)
 
 
+# 二、微信关注 小飞技术，回复 271550
 
 
 
+如果以上节点或者机场失效，请联系我,我会及时更新！！！
 
 
