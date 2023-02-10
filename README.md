@@ -1,6 +1,6 @@
-# TG频道
+# wx裙：
 
-https://t.me/+PoyXviS99XZiZGM1
+![image](https://user-images.githubusercontent.com/110610306/218096106-b513fb6b-e25b-46f5-a8a7-973a9ca55b00.png)
 
 # 一、微信关注 小飞技术，回复 271550  （手机端用户建议选择这个）
 
@@ -66,10 +66,6 @@ https://chrome.google.com/webstore/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhji
 4、访问google，会提示下面的东西，把地址都勾选以下，然后点击 添加到代理规则
 
 ![image](https://user-images.githubusercontent.com/110610306/191431741-e86ade3c-40eb-4e41-8075-b0c8f57f8c25.png)
-
-
-
-
 
 
 # 如果以上节点或者机场失效，请联系我,我会及时更新！！！
