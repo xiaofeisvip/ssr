@@ -1,10 +1,21 @@
-# wx裙：
 
-![image](https://user-images.githubusercontent.com/110610306/218096106-b513fb6b-e25b-46f5-a8a7-973a9ca55b00.png)
+# 需要加群请联系我：
 
-# 一、微信关注 小飞技术，回复 271550  （手机端用户建议选择这个）
+<img src="https://user-images.githubusercontent.com/110610306/218096106-b513fb6b-e25b-46f5-a8a7-973a9ca55b00.png" width="400" height="400" alt="微信公众号"/><br/>
 
-# 二、微信关注 小飞技术，回复 节点 （电脑用户可以选择这个）
+# wx公众号：
+![image](https://user-images.githubusercontent.com/110610306/218398258-43d042b0-f5bb-421c-99a1-8f87881fa99f.png)
+
+
+# 一、微信关注 小飞技术，公众号内回复 271550  （手机端用户或者小白可以选择这个）
+
+
+![image](https://user-images.githubusercontent.com/110610306/218399138-9747e15f-0ad3-4f22-8ac7-9b013f596940.png)
+
+
+# 二、微信关注 小飞技术，公众号内回复 节点 （懂点v2rayN的可以选择这个，使用这个需要在电脑上面操作）
+
+这个节点，每次回复都会返回不同的节点的。
 
 # 下载v2rayN
 
@@ -69,5 +80,3 @@ https://chrome.google.com/webstore/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhji
 
 
 # 如果以上节点或者机场失效，请联系我,我会及时更新！！！
-
-
